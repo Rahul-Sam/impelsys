@@ -7,6 +7,8 @@ By Using curl we will fetch the URL of Submit paper link from https://journals.s
 Prerequisites
 PHP Simple HTML DOM Parser will be required
 
+PHP Version 7 required
+
 Versioning 
 0.1
 
